@@ -7,4 +7,4 @@ This Project is Attached with a Presentation for All its’ Features, a Schema &
 
 It’s Built on HTML, HTML5, CSS, CSS3, JavaScript, Bootstrap, jQuery, Ajax, PHP, PHP MySQLi & MySQL.
 
-**For More Info, Have a Look at The Project's Documentation & Presentation.**
+**For More Info, Please Have a Look at The Project's Documentation & Presentation.**
