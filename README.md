@@ -43,7 +43,7 @@ This System Manages The Full Learning Process In the Faculty Of Computers and In
 * Receive subject timetables made by lecturers.
 * Edit his profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second name   since they are added by the admin and could be changed only by him after a request from the student.
 
-* The Admin Can:
+**The Admin Can**:
 * Add, delete and edit a student info.
 * Add, delete and edit a department info.
 * Add, delete and edit a lecturer info.
