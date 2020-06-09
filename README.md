@@ -1,4 +1,5 @@
 # FCI Learning Management System (FCI LMS)
+**It is a Responsive Learning Management System, It is Fully Automating the Learning Process at the Collage by Providing Basic & Advanced Features for Students, Lecturers and Admins, It Can Be Considered a Bit Closer to the Moodle Platform**.
 
 # Basic Info
 * This System was my Graduation Project (Faculty of Computers & Information).
