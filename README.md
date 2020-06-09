@@ -91,7 +91,7 @@ This System Manages The Full Learning Process In the Faculty Of Computers and In
 * jQuery UI
 * Flot jQuery Plugin
 * jGrowl jQuery Plugin
-* TinyMCE jQuery Plugins
+* TinyMCE jQuery Plugin
 * Wizard jQuery Plugin
 * Chosen jQuery Plugin
 * Knob jQuery Plugin
