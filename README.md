@@ -3,9 +3,9 @@
 
 # Basic Info
 * This System was my Graduation Project (Faculty of Computers & Information).
-* I've Worked on the Back-Side and also Some Tasks on the Client-Side Related to the Responsivness.
+* I've Worked on the Server-Side and also Some Tasks on the Client-Side Related to the Responsiveness.
 * This Project Took about One Year to Be Completely Finished during my Last Academic Year.
-* I've Learnt Many Skills from this Project Specially on the Back Ednd Side Using PHP & MySQL DB.
+* I've Learnt Many Skills from this Project Specially on the Server-Side Using PHP & MySQL DB.
 * I was Graded by "Excellent" for this App.
 
 # Description
