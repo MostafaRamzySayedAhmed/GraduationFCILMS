@@ -1,10 +1,11 @@
 # FCI Learning Management System
 
 # Basic Info
-* **This System was my Graduation Project (Faculty of Computers & Information)**.
-* **I've Worked on the Back End Side and also Some Tasks on the Front End Side Using AJAX **.
-* **I've Learnt Many Skills from this Project Specially on the Back Ednd Side Using PHP & MySQL DB**.
-* **I was Graded by Excellent for this App**.
+* This System was my Graduation Project (Faculty of Computers & Information).
+* I've Worked on the Back End Side and also Some Tasks on the Front End Side Using AJAX.
+* This Project Took about One Year to Be Completely Finished during my Last Academic Year.
+* I've Learnt Many Skills from this Project Specially on the Back Ednd Side Using PHP & MySQL DB.
+* I was Graded by "Excellent" for this App.
 
 # Description
 * This Will Focus on Automating the Learning Process in the Collage.
@@ -17,53 +18,53 @@
 # The Features
 This System Manages The Full Learning Process In the Faculty Of Computers and Information For Both The Lecturers and Students Of All Levels By Enabling Both Of Them To:
 
-* The Lecturer Can:
-I.	Create his/her group for a (course).
-II.	Receive notifications from other lecturers and students.                                                             
-III.	Download downloadable Materials in a group.
-IV.	Upload downloadable materials for his/her class.
-V.	Post announcements and events like cancelling the next
-     lecture or postponing it, quizzes, assignments and tasks.
-VI.	View the students in a specific group.
-VII.	Adding students to a specific group.
-VIII.	Printing students in a specific group.
-IX.	Create an overview for a particular subject.
-X.	Send to lecturers or students and also receive messages from them.
-XI.	Create a timetable for a particular subject.
-XII.	Edit his/her profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second name since they are added by the admin and could be changed only by him/her after a request from the lecturer.
+**The Lecturer Can**:
+* Create his/her group for a (course).
+*	Receive notifications from other lecturers and students.                                                             
+*	Download downloadable Materials in a group.
+*	Upload downloadable materials for his/her class.
+*	Post announcements and events like cancelling the next
+  lecture or postponing it, quizzes, assignments and tasks.
+* View the students in a specific group.
+* Adding students to a specific group.
+* Printing students in a specific group.
+* Create an overview for a particular subject.
+* Send to lecturers or students and also receive messages from them.
+* Create a timetable for a particular subject.
+* Edit his/her profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second     name since they are added by the admin and could be changed only by him/her after a request from the lecturer.
 
-* The Student Can:
-I.	View colleges in his/her group.
-II.	Receive notifications from other students and lecturers.
-III.	Download downloadable materials in a group.
-IV.	Upload downloadable materials.
-V.	Send to lecturers or students and also receive messages from them.
-VI.	Receive subject overviews made by lecturers.
-VII.	Receive subject timetables made by lecturers.
-VIII.	Edit his profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second name since they are added by the admin and could be changed only by him after a request from the student.
+**The Student Can**:
+* View colleges in his/her group.
+* Receive notifications from other students and lecturers.
+* Download downloadable materials in a group.
+* Upload downloadable materials.
+* Send to lecturers or students and also receive messages from them.
+* Receive subject overviews made by lecturers.
+* Receive subject timetables made by lecturers.
+* Edit his profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second name   since they are added by the admin and could be changed only by him after a request from the student.
 
 * The Admin Can:
-I.	Add, delete and edit a student info.
-II.	Add, delete and edit a department info.
-III.	Add, delete and edit a lecturer info.
-IV.	Add, delete and edit a course info.
-V.	Add, delete and edit the content in static pages in the system.
-VI.	View the full dashboard of the system which includes:
-i.	the total number of students in the collage
-ii.	the total number of students registered in the system
-iii.	the total number of students unregistered in the system
-iv.	the total number of lecturers
-v.	the total number of downloadable files.
-I.	Make events which will have starting and ending dates and titles like graduation and new student's reception parties.
-II.	Edit his/her profile info.
-III.	Search for
-vi.	a subject by it’s name
-vii.	a department by it’s name
-viii.	a student by it’s name
-ix.	a lecturer by it’s name
-x.	a static page by it’s name
-xi.	the admin’s log-in trail history by his/her username
-xii.	the admin’s activity log by his/her username.
+* Add, delete and edit a student info.
+* Add, delete and edit a department info.
+* Add, delete and edit a lecturer info.
+* Add, delete and edit a course info.
+* Add, delete and edit the content in static pages in the system.
+* View the full dashboard of the system which includes:
+  * the total number of students in the collage
+  * the total number of students registered in the system
+  * the total number of students unregistered in the system
+  * the total number of lecturers
+  * the total number of downloadable files.
+* Make events which will have starting and ending dates and titles like graduation and new student's reception parties.
+* Edit his/her profile info.
+* Search for
+ * a subject by it’s name
+ * a department by it’s name
+ * a student by it’s name
+ * a lecturer by it’s name
+ * a static page by it’s name
+ * the admin’s log-in trail history by his/her username
+ * the admin’s activity log by his/her username.
 
 # The Used Technologies
 * HTML
