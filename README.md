@@ -1,4 +1,4 @@
-# FCI Learning Management System
+# FCI Learning Management System (FCI LMS)
 
 # Basic Info
 * This System was my Graduation Project (Faculty of Computers & Information).
