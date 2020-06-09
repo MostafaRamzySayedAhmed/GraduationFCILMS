@@ -8,11 +8,11 @@
 * I was Graded by "Excellent" for this App.
 
 # Description
-* This Will Focus on Automating the Learning Process in the Collage.
+* The App This Will Focus on Automating the Learning Process in the Collage.
 * There Will Be Three Kinds Of Users For That Website System
   * The First of Them Is The Admin(s) Who Will Be an Employee In The College.
   * The Second Is The Lecturers and The Third Is The Students.
-* The App Usage will Be Private for Only the Lecturers and Students of the Collage.
+* The App's Usage will Be Private for Only the Lecturers and Students of the Collage.
   * In Other Words, It Cannot Be Signed Up from Anyone Outside The Collage, The Thing We Intend To Do By Making The Admin Add The Basic     Info For Either The Student or The Lecturer Who Want To Sign Up Like Their First Names, Second Names and Some Specific Info Like the     Department For The Lecturer and The ID For The Student, Then The Lecturer or Student Will Use This Info Added By The Admin To Sign       Up Besides Some Other Info That Will Be Required In The Signing Up Form Like Their Passwords Which Will Be Added By Their Own Not By     The Admin.
 
 # The Features
