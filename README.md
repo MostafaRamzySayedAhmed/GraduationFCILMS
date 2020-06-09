@@ -58,13 +58,13 @@ This System Manages The Full Learning Process In the Faculty Of Computers and In
 * Make events which will have starting and ending dates and titles like graduation and new student's reception parties.
 * Edit his/her profile info.
 * Search for
- * a subject by it’s name
- * a department by it’s name
- * a student by it’s name
- * a lecturer by it’s name
- * a static page by it’s name
- * the admin’s log-in trail history by his/her username
- * the admin’s activity log by his/her username.
+  * a subject by it’s name
+  * a department by it’s name
+  * a student by it’s name
+  * a lecturer by it’s name
+  * a static page by it’s name
+  * the admin’s log-in trail history by his/her username
+  * the admin’s activity log by his/her username.
 
 # The Used Technologies
 * HTML
