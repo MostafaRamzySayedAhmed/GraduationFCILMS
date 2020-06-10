@@ -99,6 +99,6 @@ This System Manages The Full Learning Process In the Faculty Of Computers and In
 * Bootstrap
 * PHP
 * PHP (MySQL)
-* MySQL DB.
+* MySQL DB
 
 **For More Info, Please Have a Look at The Project's Documentation & Presentation.**
