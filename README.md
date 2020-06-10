@@ -10,7 +10,7 @@
 
 # Description
 * The App This Will Focus on Automating the Learning Process in the Collage.
-* There Will Be Three Kinds Of Users For That Website System
+* There Will Be Three Kinds Of Users For That Website System.
   * The First of Them Is The Admin(s) Who Will Be an Employee In The College.
   * The Second Is The Lecturers and The Third Is The Students.
 * The App's Usage will Be Private for Only the Lecturers and Students of the Collage.
@@ -51,20 +51,20 @@ This System Manages The Full Learning Process In the Faculty Of Computers and In
 * Add, delete and edit a course info.
 * Add, delete and edit the content in static pages in the system.
 * View the full dashboard of the system which includes:
-  * the total number of students in the collage
-  * the total number of students registered in the system
-  * the total number of students unregistered in the system
-  * the total number of lecturers
+  * the total number of students in the collage.
+  * the total number of students registered in the system.
+  * the total number of students unregistered in the system.
+  * the total number of lecturers.
   * the total number of downloadable files.
 * Make events which will have starting and ending dates and titles like graduation and new student's reception parties.
 * Edit his/her profile info.
 * Search for
-  * a subject by it’s name
-  * a department by it’s name
-  * a student by it’s name
-  * a lecturer by it’s name
-  * a static page by it’s name
-  * the admin’s log-in trail history by his/her username
+  * a subject by it’s name.
+  * a department by it’s name.
+  * a student by it’s name.
+  * a lecturer by it’s name.
+  * a static page by it’s name.
+  * the admin’s log-in trail history by his/her username.
   * the admin’s activity log by his/her username.
 
 # The Used Technologies
