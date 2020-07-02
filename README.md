@@ -11,10 +11,10 @@
 # Description
 * The App This Will Focus on Automating the Learning Process in the Collage.
 * There Will Be Three Kinds Of Users For That Website System.
-  * The First of Them Is The Admin(s) Who Will Be an Employee In The College.
-  * The Second Is The Lecturers and The Third Is The Students.
+* The First of Them Is The Admin(s) Who Will Be an Employee In The College.
+* The Second Is The Lecturers and The Third Is The Students.
 * The App's Usage will Be Private for Only the Lecturers and Students of the Collage.
-  * In Other Words, It Cannot Be Signed Up from Anyone Outside The Collage, The Thing We Intend To Do By Making The Admin Add The Basic     Info For Either The Student or The Lecturer Who Want To Sign Up Like Their First Names, Second Names and Some Specific Info Like the     Department For The Lecturer and The ID For The Student, Then The Lecturer or Student Will Use This Info Added By The Admin To Sign       Up Besides Some Other Info That Will Be Required In The Signing Up Form Like Their Passwords Which Will Be Added By Their Own Not By     The Admin.
+* In Other Words, It Cannot Be Signed Up from Anyone Outside The Collage, The Thing We Intend To Do By Making The Admin Add The Basic Info For Either The Student or The Lecturer Who Want To Sign Up Like Their First Names, Second Names and Some Specific Info Like the Department For The Lecturer and The ID For The Student, Then The Lecturer or Student Will Use This Info Added By The Admin To Sign Up Besides Some Other Info That Will Be Required In The Signing Up Form Like Their Passwords Which Will Be Added By Their Own Not By The Admin.
 
 # The Features
 This System Manages The Full Learning Process In the Faculty Of Computers and Information For Both The Lecturers and Students Of All Levels By Enabling Both Of Them To:
@@ -42,7 +42,7 @@ This System Manages The Full Learning Process In the Faculty Of Computers and In
 * Send to lecturers or students and also receive messages from them.
 * Receive subject overviews made by lecturers.
 * Receive subject timetables made by lecturers.
-* Edit his profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second name   since they are added by the admin and could be changed only by him after a request from the student.
+* Edit his profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second name since they are added by the admin and could be changed only by him after a request from the student.
 
 **The Admin Can**:
 * Add, delete and edit a student info.
@@ -51,21 +51,21 @@ This System Manages The Full Learning Process In the Faculty Of Computers and In
 * Add, delete and edit a course info.
 * Add, delete and edit the content in static pages in the system.
 * View the full dashboard of the system which includes:
-  * the total number of students in the collage.
-  * the total number of students registered in the system.
-  * the total number of students unregistered in the system.
-  * the total number of lecturers.
-  * the total number of downloadable files.
+  * The total number of students in the collage.
+  * The total number of students registered in the system.
+  * The total number of students unregistered in the system.
+  * The total number of lecturers.
+  * The total number of downloadable files.
 * Make events which will have starting and ending dates and titles like graduation and new student's reception parties.
 * Edit his/her profile info.
 * Search for
-  * a subject by it’s name.
-  * a department by it’s name.
-  * a student by it’s name.
-  * a lecturer by it’s name.
-  * a static page by it’s name.
-  * the admin’s log-in trail history by his/her username.
-  * the admin’s activity log by his/her username.
+  * Subject by it’s name.
+  * Department by it’s name.
+  * Student by it’s name.
+  * Lecturer by it’s name.
+  * Static page by it’s name.
+  * The admin’s log-in trail history by his/her username.
+  * The admin’s activity log by his/her username.
 
 # The Used Technologies
 * HTML
