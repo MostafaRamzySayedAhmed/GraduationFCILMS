@@ -17,7 +17,7 @@
 * In Other Words, It Cannot Be Signed Up from Anyone Outside The Collage, The Thing We Intend To Do By Making The Admin Add The Basic Info For Either The Student or The Lecturer Who Want To Sign Up Like Their First Names, Second Names and Some Specific Info Like the Department For The Lecturer and The ID For The Student, Then The Lecturer or Student Will Use This Info Added By The Admin To Sign Up Besides Some Other Info That Will Be Required In The Signing Up Form Like Their Passwords Which Will Be Added By Their Own Not By The Admin.
 
 # The Features
-This System Manages The Full Learning Process In the Faculty Of Computers and Information For Both The Lecturers and Students Of All Levels By Enabling Both Of Them To:
+This System Manages The Full Learning Process in the Faculty of Computers & Information for Both The Lecturers & Students of All Levels.
 
 **The Lecturer Can**:
 * Create his/her group for a (course).
