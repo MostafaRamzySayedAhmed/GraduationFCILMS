@@ -6,7 +6,7 @@
 * I've Worked on The Server-Side and also Some Tasks on The Client-Side Related to The Responsiveness.
 * This Project Took about One Year to Be Completed during My Last Academic Year.
 * I've Learnt Many Skills from This Project Specially on The Server-Side Using PHP & MySQL DB.
-* I was Graded by "Excellent" for This App.
+* I was Graded by "Excellent" for This Project.
 
 # Description
 * The App This Will Focus on Automating the Learning Process in the Collage.
