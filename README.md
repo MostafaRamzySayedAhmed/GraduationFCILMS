@@ -3,9 +3,9 @@
 
 # Basic Info
 * This System was My Graduation Project (Faculty of Computers & Information).
-* I've Worked on The Server-Side and also Some Tasks on The Client-Side Related to The Responsiveness.
+* I've Worked on The Server-Side and also Some Tasks on The Client-Side Related to Responsiveness.
 * This Project Took about One Year to Be Completed during My Last Academic Year.
-* I've Learnt Many Skills from This Project Specially on The Server-Side Using PHP & MySQL DB.
+* I've Learnt Many Skills from This Project Specially on The Server-Side Using PHP & MySQL.
 * I was Graded by "Excellent" for This Project.
 
 # Description
@@ -99,6 +99,6 @@ This System Manages The Full Learning Process in the Faculty of Computers & Info
 * Bootstrap
 * PHP
 * PHP (MySQL)
-* MySQL DB
+* MySQL
 
 **For More Info, Please Have a Look at The Project's Documentation & Presentation.**
