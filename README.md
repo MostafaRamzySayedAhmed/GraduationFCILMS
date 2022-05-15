@@ -6,66 +6,13 @@
 * I've Worked on The Server-Side and also Some Tasks on The Client-Side Related to Responsiveness.
 * This Project Took about One Year to Be Completed during My Last Academic Year.
 * I've Learnt Many Skills from This Project Specially on The Server-Side Using PHP & MySQL.
-* I was Graded by "Excellent" for This Project.
 
 # Description
-* The App This Will Focus on Automating the Learning Process in the Collage.
-* There Will Be Three Kinds Of Users For That Website System.
-* The First of Them Is The Admin(s) Who Will Be an Employee In The College.
-* The Second Is The Lecturers and The Third Is The Students.
-* The App's Usage will Be Private for Only the Lecturers and Students of the Collage.
-* In Other Words, It Cannot Be Signed Up from Anyone Outside The Collage, The Thing We Intend To Do By Making The Admin Add The Basic Info For Either The Student or The Lecturer Who Want To Sign Up Like Their First Names, Second Names and Some Specific Info Like the Department For The Lecturer and The ID For The Student, Then The Lecturer or Student Will Use This Info Added By The Admin To Sign Up Besides Some Other Info That Will Be Required In The Signing Up Form Like Their Passwords Which Will Be Added By Their Own Not By The Admin.
-
-# The Features
-This System Manages The Full Learning Process in the Faculty of Computers & Information for Both The Lecturers & Students of All Levels:
-
-**The Lecturer Can**:
-* Create his/her group for a (course).
-*	Receive notifications from other lecturers and students.                                                             
-*	Download downloadable Materials in a group.
-*	Upload downloadable materials for his/her class.
-*	Post announcements and events like cancelling the next
-  lecture or postponing it, quizzes, assignments and tasks.
-* View the students in a specific group.
-* Adding students to a specific group.
-* Printing students in a specific group.
-* Create an overview for a particular subject.
-* Send to lecturers or students and also receive messages from them.
-* Create a timetable for a particular subject.
-* Edit his/her profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second     name since they are added by the admin and could be changed only by him/her after a request from the lecturer.
-
-**The Student Can**:
-* View colleges in his/her group.
-* Receive notifications from other students and lecturers.
-* Download downloadable materials in a group.
-* Upload downloadable materials.
-* Send to lecturers or students and also receive messages from them.
-* Receive subject overviews made by lecturers.
-* Receive subject timetables made by lecturers.
-* Edit his profile by changing his/her personal photo and password but he/she cannot edit his/her other info like first and second name since they are added by the admin and could be changed only by him after a request from the student.
-
-**The Admin Can**:
-* Add, delete and edit a student info.
-* Add, delete and edit a department info.
-* Add, delete and edit a lecturer info.
-* Add, delete and edit a course info.
-* Add, delete and edit the content in static pages in the system.
-* View the full dashboard of the system which includes:
-  * The total number of students in the collage.
-  * The total number of students registered in the system.
-  * The total number of students unregistered in the system.
-  * The total number of lecturers.
-  * The total number of downloadable files.
-* Make events which will have starting and ending dates and titles like graduation and new student's reception parties.
-* Edit his/her profile info.
-* Search for
-  * Subject by it’s name.
-  * Department by it’s name.
-  * Student by it’s name.
-  * Lecturer by it’s name.
-  * Static page by it’s name.
-  * The admin’s log-in trail history by his/her username.
-  * The admin’s activity log by his/her username.
+* The App This Will Focus on Automating The Learning Process in The Collage.
+* There Will Be Three Kinds of Users for That Website System.
+* The First of Them is The Admin(s) Who Will Be an Employee in The College.
+* The Second is The Lecturer(s) & The Third Is The Student(s).
+* The App's Usage Will Be Private for Only The Lecturers & Students of The Collage.
 
 # The Used Technologies
 * HTML
@@ -100,5 +47,3 @@ This System Manages The Full Learning Process in the Faculty of Computers & Info
 * PHP
 * PHP (MySQL)
 * MySQL
-
-**For More Info, Please Have a Look at The Project's Documentation & Presentation.**
