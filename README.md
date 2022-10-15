@@ -16,9 +16,7 @@ It's a Responsive Learning Management System, It is Totally Automating The Learn
 
 # The Used Technologies
 * HTML
-* HTML5
 * CSS
-* CSS3
 * Google Fonts
 * Font Awesome CSS Library
 * Uniform CSS Library
