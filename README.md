@@ -20,7 +20,7 @@ It's a Responsive Learning Management System, It is Totally Automating The Learn
 * Google Fonts
 * Font Awesome CSS Library
 * Uniform CSS Library
-* Java Script
+* JavaScript
 * HTML5Shiv JS Plugin
 * Modernizer JS Plugin
 * Respond JS Plugin
@@ -32,6 +32,7 @@ It's a Responsive Learning Management System, It is Totally Automating The Learn
 * Easy Pie Chart JS Plugin
 * Bootstrap DatePicker JS Plugin
 * Raphael JS Library
+* AJAX
 * jQuery
 * jQuery UI
 * Flot jQuery Plugin
@@ -40,8 +41,6 @@ It's a Responsive Learning Management System, It is Totally Automating The Learn
 * Wizard jQuery Plugin
 * Chosen jQuery Plugin
 * Knob jQuery Plugin
-* AJAX
 * Bootstrap
 * PHP
-* PHP (MySQL)
 * MySQL
