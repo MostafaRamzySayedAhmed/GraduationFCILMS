@@ -11,7 +11,7 @@ It's a Responsive Learning Management System, It is Totally Automating The Learn
 * The App This Will Focus on Automating The Learning Process in The Collage.
 * There Will Be Three Kinds of Users for That Website System.
 * The First of Them is The Admin(s) Who Will Be an Employee in The College.
-* The Second is The Lecturer(s) & The Third Is The Student(s).
+* The Second is The Lecturer(s) & The Third is The Student(s).
 * The App's Usage Will Be Private for Only The Lecturers & Students of The Collage.
 
 # The Used Technologies
